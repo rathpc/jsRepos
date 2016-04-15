@@ -80,6 +80,9 @@ var arrayAnagramCompare = function (arr1,arr2) {
 	}
 };
 
+
+
+
 //Combine two arrays and return a single sorted array
 //Case 1
 //Result = [1, 2, 3, 4, 5, 6]
@@ -100,7 +103,6 @@ var arrayAnagramCompare = function (arr1,arr2) {
 //Result = [1, 2, 3, 4, 5, 6];
 //var a1 = [1, 5];
 //var a2 = [2, 3, 4, 6];
-
 var arrayFn = function(arg1, arg2) {
 	var tmp1 = arg1.length + arg2.length;
 	var tmp2 = [];
